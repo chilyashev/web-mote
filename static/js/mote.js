@@ -55,7 +55,8 @@ function CommandCtrl ($scope, $http) {
     	  {cmd: "backward", held: true},
     	  {cmd: "stop"},
     	  {cmd: "pause"},
-    	  {cmd: "forward", held: true},
+     	  {cmd: "full-screen"},
+   	  {cmd: "forward", held: true},
     	  // {cmd: "step-forward"}
 	],
     	[{cmd: "volume-down", held: true}, 

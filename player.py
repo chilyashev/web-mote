@@ -25,7 +25,7 @@ commandTable = {
         {'step-backward': "\x1B[B", 'backward': "\x1B[D", 'forward': "\x1B[C", 'step-forward': "\x1B[A",
          ## down | left | right | up
          'volume-down': "9", 'volume-off': "m", 'volume-up': "0",
-         'stop': "q", 'pause': " ", 'play': " "},
+         'stop': "q", 'pause': " ", 'play': " ", "full-screen":"f"},
     'omxplayer':
         {'step-backward': "\x1B[B", 'backward': "\x1B[D", 'forward': "\x1B[C", 'step-forward': "\x1B[A",
          'volume-off': " ", #oxmplayer doesn't have a mute, so we pause instead

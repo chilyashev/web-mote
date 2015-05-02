@@ -2456,6 +2456,10 @@ table [class*=span],
   background-position: -240px -72px;
 }
 
+.icon-full-screen{
+  background-position: -360px -95px;
+}
+
 .icon-play {
   background-position: -264px -72px;
 }
